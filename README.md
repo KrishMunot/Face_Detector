@@ -1,2 +1,2 @@
-# hh_proj
+# Face Detector
 
